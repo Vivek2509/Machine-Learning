@@ -13,7 +13,7 @@ Content of workshops on Machine Learning conducted by TechNeurons
   
 ## Day-wise content covered
   
-* [Module 1 - **Overview With Cheatsheets**] :
+* Module 1 - **Overview With Cheatsheets** :
   * Python Overview
   * Library Basics:
     * Numpy
@@ -27,7 +27,7 @@ Content of workshops on Machine Learning conducted by TechNeurons
     * Pandas
   * Supervised Vs Unsupervised
 
-* [Module 3/4 - **Supervised Learning Methods**] :
+* Module 3/4 - **Supervised Learning Methods** :
   * Supervised method
     1. Classification method
        - Logistic Regression
@@ -45,13 +45,13 @@ Content of workshops on Machine Learning conducted by TechNeurons
        - Decision Tree Regression
        - Random Forest Regression
 
-* [Module 5 - **Unsupervised Learning Methods**] :
+* Module 5 - **Unsupervised Learning Methods** :
     - Clustering Basics
     - Clustering Types
     - Kmeans Clustering with python code
     - A brush-up of different types of clustering
 
-* [Module 6 - **Neural Network/Deep Learning**] :
+* Module 6 - **Neural Network/Deep Learning** :
     - Perceptron
     - Activation functions
     - Simple ANN using Keras

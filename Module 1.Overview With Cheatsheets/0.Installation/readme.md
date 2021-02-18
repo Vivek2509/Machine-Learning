@@ -4,6 +4,7 @@ First you have to download [anaconda](https://www.anaconda.com/products/individu
 
 <img title="" src="Anaconda.png" alt="img" data-align="center">
 
+### Steps to follow.
 1. Download and install it.
    - Make sure you check evn path of your anaconda.
    - If not you can add with Environment Variables from control panel(**WINDOWS**).

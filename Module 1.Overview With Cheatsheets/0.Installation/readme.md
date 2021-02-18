@@ -13,7 +13,7 @@ First you have to download [anaconda](https://www.anaconda.com/products/individu
    - Go to that folder.
    - Create env with `conda create --prefix ./NAME_OF_YOUR_ENV`
    ![](./terminal.png)
-   - You can activate env with `conda activate PATH_OF_YOUR_ENV`.
+   - You can activate env with `conda activate PATH_TO_YOUR_ENV`.
    ![](./Activated_terminal.png)
 3. Install packages.
    - Install package with `conda install package_name`

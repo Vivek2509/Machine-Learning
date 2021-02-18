@@ -1,6 +1,6 @@
-# Machine Learning -Workshop
+# Machine Learning
 
-Content of workshops on Machine Learning conducted by TechNeurons
+Starter guide for machine learning by Mozneurons
 
 ## Content Covered
 

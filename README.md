@@ -13,7 +13,7 @@ Content of workshops on Machine Learning conducted by TechNeurons
   
 ## Day-wise content covered
   
-* [Day 1 - **Overview With Cheatsheets**](https://github.com/MozNeurons/ML-Workshop/tree/Day-1) :
+* [Module 1 - **Overview With Cheatsheets**] :
   * Python Overview
   * Library Basics:
     * Numpy
@@ -21,13 +21,13 @@ Content of workshops on Machine Learning conducted by TechNeurons
     * Matplotlib
     * TensorFlow
 
-* [Day 2 - **Data Preprocessing**](https://github.com/MozNeurons/ML-Workshop/tree/Day-2) :
+* [Module 2 - **Data Preprocessing**] :
   * Data Preprocessing with:
     * Scikit-learn
     * Pandas
   * Supervised Vs Unsupervised
 
-* [Day 3/4 - **Supervised Learning Methods**](https://github.com/MozNeurons/ML-Workshop/tree/Day-3) :
+* [Module 3/4 - **Supervised Learning Methods**] :
   * Supervised method
     1. Classification method
        - Logistic Regression
@@ -45,13 +45,13 @@ Content of workshops on Machine Learning conducted by TechNeurons
        - Decision Tree Regression
        - Random Forest Regression
 
-* [Day 5 - **Unsupervised Learning Methods**](https://github.com/MozNeurons/ML-Workshop/tree/Day-5) :
+* [Module 5 - **Unsupervised Learning Methods**] :
     - Clustering Basics
     - Clustering Types
     - Kmeans Clustering with python code
     - A brush-up of different types of clustering
 
-* [Day 6 - **Neural Network/Deep Learning**](https://github.com/MozNeurons/ML-Workshop/tree/Day-6) :
+* [Module 6 - **Neural Network/Deep Learning**] :
     - Perceptron
     - Activation functions
     - Simple ANN using Keras

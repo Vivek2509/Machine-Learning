@@ -21,7 +21,7 @@ Content of workshops on Machine Learning conducted by TechNeurons
     * Matplotlib
     * TensorFlow
 
-* [Module 2 - **Data Preprocessing**] :
+* Module 2 - **Data Preprocessing** :
   * Data Preprocessing with:
     * Scikit-learn
     * Pandas

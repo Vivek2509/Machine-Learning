@@ -32,7 +32,7 @@ Starter guide for machine learning by Mozneurons
     1. Classification method
        - Logistic Regression
        - K-Nearest Neighbours(K-NN)
-       - Support Vector Mchine(SVM)
+       - Support Vector Machine(SVM)
        - Kernel SVM
        - Naive Bayes
        - Decision Tree Classification
